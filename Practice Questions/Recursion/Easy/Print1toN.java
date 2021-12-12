@@ -1,4 +1,4 @@
-package PracticeQuestionRecursion.EasyQuestions;
+//package PracticeQuestionRecursion.EasyQuestions;
 
 public class Print1toN {
     public static void main(String[] args) {
